@@ -7,4 +7,4 @@
 - 👨🏽‍💻 I’m currently working on Beluga Games as Blockchain Software Developer.
 - 🦾🚀 Apps & DApps 🦦💙
 
-![snake svg](https://github.com/kemaleb/kemaleb/blob/output/github-contribution-grid-snake.svg)
+![snake svg](https://github.com/emrbli/emrbli/blob/output/github-contribution-grid-snake.svg)
