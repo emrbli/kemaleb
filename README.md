@@ -1,4 +1,4 @@
 ###
 
 
-- Software Developer. / Currently working in Blockchain, Smart Contracts, Web3 and Mobile.
+- Software Developer / Computer Science and Math | Mobile and sometimes Go.
